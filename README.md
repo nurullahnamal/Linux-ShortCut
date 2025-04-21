@@ -19,6 +19,7 @@ Ctrl + B / Ctrl + F <br>
 <br> 
 Alt + B / Alt + F<br>
 İmleci bir kelime geri (Alt + B) veya ileri (Alt + F) götürür. Kelime bazlı hızlı gezinme sağlar.<br> 
+
 ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/AltB%20And%20AltF.gif)<br>
 
 <br>
@@ -27,7 +28,9 @@ Alt + B / Alt + F<br>
 <br> 
 Alt +T / Ctrl + T<br>
 İmlecin bulunduğu yerdeki iki karakterin yerini değiştirir. Yazım hatalarını düzeltmek için kullanışlıdır.<br>
-  ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/AltT.gif) <br>
+
+![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/AltT.gif) <br>
+
 <br>
 <br>
 <br>
@@ -36,7 +39,8 @@ Alt + U / Alt + L <br>
 Alt + U: İmleçten sonraki karakterleri büyük harfe çevirir. <br>
 Alt + L: İmleçten sonraki karakterleri küçük harfe çevirir. <br>
 Yazıyı hızlıca büyük/küçük harfe dönüştürmek için kullanılır. <br>
-   ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/AltU%20And%20AltL.gif) <br>
+
+![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/AltU%20And%20AltL.gif) <br>
 
 
 Ctrl + U / Ctrl + K <br> 
