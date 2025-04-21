@@ -13,71 +13,112 @@ Ctrl + A / Ctrl + E <br>
  ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Control%20B%20And%20Control%20F.gif) <br>
 Ctrl + B / Ctrl + F <br>
 İmleci bir karakter geri (Ctrl + B) veya ileri (Ctrl + F) götürür. Ok tuşları gibi çalışır ancak klavyeden elini kaldırmadan kullanmak için etkilidir.<br>
+<br>
+<br>
 
+<br> 
 Alt + B / Alt + F<br>
-İmleci bir kelime geri (Alt + B) veya ileri (Alt + F) götürür. Kelime bazlı hızlı gezinme sağlar.<br>
-  ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/AltB%20And%20AltF.gif)<br>
+İmleci bir kelime geri (Alt + B) veya ileri (Alt + F) götürür. Kelime bazlı hızlı gezinme sağlar.<br> 
+![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/AltB%20And%20AltF.gif)<br>
 
-
+<br>
+<br>
+<br>
+<br> 
 Alt +T / Ctrl + T<br>
 İmlecin bulunduğu yerdeki iki karakterin yerini değiştirir. Yazım hatalarını düzeltmek için kullanışlıdır.<br>
   ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/AltT.gif) <br>
-
-Alt + U / Alt + L
-Alt + U: İmleçten sonraki karakterleri büyük harfe çevirir.
-Alt + L: İmleçten sonraki karakterleri küçük harfe çevirir.
-Yazıyı hızlıca büyük/küçük harfe dönüştürmek için kullanılır.
-   ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/AltU%20And%20AltL.gif)
-
-
-Ctrl + U / Ctrl + K
-Ctrl + U: İmleçten önceki tüm karakterleri siler.
-Ctrl + K: İmleçten sonraki tüm karakterleri siler.
-Satırın belli bir kısmını hızlıca temizlemek için kullanılır.
- ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/CtrlU%20And%20CtrlK.gif)
-
-   Ctrl + Y
-Son kesilen (Ctrl + U veya Ctrl + K ile) ifadeyi yapıştırır.
- ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Control%20Y%20Cut%20And%20Control%20U%20Paste.gif)
+<br>
+<br>
+<br>
+<br>
+Alt + U / Alt + L <br>
+Alt + U: İmleçten sonraki karakterleri büyük harfe çevirir. <br>
+Alt + L: İmleçten sonraki karakterleri küçük harfe çevirir. <br>
+Yazıyı hızlıca büyük/küçük harfe dönüştürmek için kullanılır. <br>
+   ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/AltU%20And%20AltL.gif) <br>
 
 
-Ctrl + S / Ctrl + Q
-Ctrl + S: Terminal çıktısını duraklatır (freeze).
-Ctrl + Q: Duraklatılan çıktıyı devam ettirir (resume).
-Uzun çıktıları kontrol etmek için kullanılır.
-  ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Control%20S%20And%20Control%20Q.gif)
+Ctrl + U / Ctrl + K <br> 
+Ctrl + U: İmleçten önceki tüm karakterleri siler. <br>
+Ctrl + K: İmleçten sonraki tüm karakterleri siler. <br>
+Satırın belli bir kısmını hızlıca temizlemek için kullanılır. <br> 
+ ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/CtrlU%20And%20CtrlK.gif) <br>
+<br>
+<br>
+<br>
+<br>
+   Ctrl + Y <br>
+Son kesilen (Ctrl + U veya Ctrl + K ile) ifadeyi yapıştırır. <br>
+ ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Control%20Y%20Cut%20And%20Control%20U%20Paste.gif) <br>
+ <br>
+ <br>
+ <br>
+ 
 
-Ctrl + C
-Çalışmakta olan komutu sonlandırır (interrupt). En yaygın kullanılan komut durdurma tuşudur.
-   ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Control%20C%20%2C%20Stop.gif)
 
-  Ctrl + Z + fg + Enter
-Ctrl + Z: Komutu askıya alır (suspend).
-fg + Enter: Askıya alınan komutu tekrar ön plana getirir.
-Arka planda çalışan işlemleri yönetmek için kullanılır.
- ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Control%20Z%20And%20fg%20.gif)
+Ctrl + S / Ctrl + Q<br>
+Ctrl + S: Terminal çıktısını duraklatır (freeze). <br>
+Ctrl + Q: Duraklatılan çıktıyı devam ettirir (resume). <br>
+Uzun çıktıları kontrol etmek için kullanılır. <br>
+  ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Control%20S%20And%20Control%20Q.gif) <br>
 
-  Ctrl + L
-Terminal ekranını temizler. Yeni bir görünüm elde etmek için kullanılır. clear komutu ile aynı işleve sahiptir. 
- ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Ctrl%20L.gif)
+<br>
+<br>
+<br>
 
-Ctrl + P / Ctrl + N
-Ctrl + P: Önceki komutu getirir.
-Ctrl + N: Sonraki komutu getirir.
-Komut geçmişinde gezinmek için kullanılır.
-  ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Ctrl%20P%20And%20Ctrl%20N.gif)
+Ctrl + C <br>
+Çalışmakta olan komutu sonlandırır (interrupt). En yaygın kullanılan komut durdurma tuşudur. <br>
+   ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Control%20C%20%2C%20Stop.gif) <br>
+<br>
+<br>
+<br>
+<br>
+  Ctrl + Z + fg + Enter <br>
+Ctrl + Z: Komutu askıya alır (suspend). <br>
+fg + Enter: Askıya alınan komutu tekrar ön plana getirir. <br>
+Arka planda çalışan işlemleri yönetmek için kullanılır. <br>
+ ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Control%20Z%20And%20fg%20.gif) <br>
 
-Ctrl + R / Ctrl + G
-Ctrl + R: Komut geçmişinde arama yapar.
-Ctrl + G: Arama modundan çıkar.
-Geçmişte kullanılan bir komutu hızlıca bulmak için kullanılır.
-   ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Control%20R%20and%20Control%20G.gif)
+<br>
+<br>
+<br>
+ 
+  Ctrl + L <br>
+Terminal ekranını temizler. Yeni bir görünüm elde etmek için kullanılır. clear komutu ile aynı işleve sahiptir.  <br>
+ ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Ctrl%20L.gif) <br>
 
-   Tab (x2)
-Komutları veya dosya adlarını otomatik tamamlar. İki kez basıldığında tüm olası tamamlamaları listeler.
- ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Tab%20.gif)
+<br>
+<br>
+<br>
 
-   Ctrl + D / exit + Enter
-Terminal oturumunu kapatır. exit yazıp Enter’a basmakla aynı işlemi yapar.
- ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Ctrl%20D.gif)
+Ctrl + P / Ctrl + N <br>
+Ctrl + P: Önceki komutu getirir. <br>
+Ctrl + N: Sonraki komutu getirir. <br>
+Komut geçmişinde gezinmek için kullanılır. <br>
+  ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Ctrl%20P%20And%20Ctrl%20N.gif) <br>
+<br>
+<br>
+<br>
+<br> 
+Ctrl + R / Ctrl + G <br>
+Ctrl + R: Komut geçmişinde arama yapar. <br>
+Ctrl + G: Arama modundan çıkar. <br>
+Geçmişte kullanılan bir komutu hızlıca bulmak için kullanılır. <br>
+   ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Control%20R%20and%20Control%20G.gif) <br>
+<br>
+<br>
+<br>
+<br>
+   Tab (x2) <br>
+Komutları veya dosya adlarını otomatik tamamlar. İki kez basıldığında tüm olası tamamlamaları listeler. <br>
+ ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Tab%20.gif) <br>
+ 
+<br>
+<br>
+<br>
+
+   Ctrl + D / exit + Enter <br>
+Terminal oturumunu kapatır. exit yazıp Enter’a basmakla aynı işlemi yapar. <br>
+ ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Ctrl%20D.gif) <br>
 
