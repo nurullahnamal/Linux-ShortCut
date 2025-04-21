@@ -2,26 +2,26 @@
 Linux terminali, sistem yöneticileri ve geliştiriciler için vazgeçilmez bir araçtır. Terminal üzerinde verimli çalışmanın anahtarı ise klavye kısayollarını iyi kullanmaktan geçer. Bu kılavuzda, terminal kullanımınızı hızlandıracak ve iş akışınızı kolaylaştıracak en önemli kısayol tuşlarını sade bir şekilde açıklıyoruz.
 
 
- ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Linux%20Shortcut.png)
+ ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Linux%20Shortcut.png)<br>
 Komut satırı arayüzü (CLI — Command Line Interface), birçok sistem yöneticisi, geliştirici ve Linux kullanıcısı için vazgeçilmez bir araçtır. Zaman kazanmak, daha verimli çalışmak ve terminal üzerinde profesyonel bir kullanım deneyimi elde etmek isteyenler için klavye kısayolları büyük önem taşır. Bu yazıda, terminal üzerinde sık kullanılan kısayolların açıklamalarıyla birlikte, verimliliğinizi nasıl artırabileceğinizi ele alıyoruz.
 
 
  
  ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Ctrl%20A%20or%20E%20.gif)
-Ctrl + A / Ctrl + E
-İmleci satırın başına (Ctrl + A) veya sonuna (Ctrl + E) götürür. Uzun komutlarda imleci hızlıca başa veya sona taşımak için kullanılır.
- ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Control%20B%20And%20Control%20F.gif)
-Ctrl + B / Ctrl + F
-İmleci bir karakter geri (Ctrl + B) veya ileri (Ctrl + F) götürür. Ok tuşları gibi çalışır ancak klavyeden elini kaldırmadan kullanmak için etkilidir.
+Ctrl + A / Ctrl + E <br>
+İmleci satırın başına (Ctrl + A) veya sonuna (Ctrl + E) götürür. Uzun komutlarda imleci hızlıca başa veya sona taşımak için kullanılır. <br>
+ ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Control%20B%20And%20Control%20F.gif) <br>
+Ctrl + B / Ctrl + F <br>
+İmleci bir karakter geri (Ctrl + B) veya ileri (Ctrl + F) götürür. Ok tuşları gibi çalışır ancak klavyeden elini kaldırmadan kullanmak için etkilidir.<br>
 
-Alt + B / Alt + F
-İmleci bir kelime geri (Alt + B) veya ileri (Alt + F) götürür. Kelime bazlı hızlı gezinme sağlar.
-  ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/AltB%20And%20AltF.gif)
+Alt + B / Alt + F<br>
+İmleci bir kelime geri (Alt + B) veya ileri (Alt + F) götürür. Kelime bazlı hızlı gezinme sağlar.<br>
+  ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/AltB%20And%20AltF.gif)<br>
 
 
-Alt +T / Ctrl + T
-İmlecin bulunduğu yerdeki iki karakterin yerini değiştirir. Yazım hatalarını düzeltmek için kullanışlıdır.
-  ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/AltT.gif)
+Alt +T / Ctrl + T<br>
+İmlecin bulunduğu yerdeki iki karakterin yerini değiştirir. Yazım hatalarını düzeltmek için kullanışlıdır.<br>
+  ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/AltT.gif) <br>
 
 Alt + U / Alt + L
 Alt + U: İmleçten sonraki karakterleri büyük harfe çevirir.
