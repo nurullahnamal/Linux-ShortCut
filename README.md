@@ -15,7 +15,6 @@ Ctrl + B / Ctrl + F <br>
 İmleci bir karakter geri (Ctrl + B) veya ileri (Ctrl + F) götürür. Ok tuşları gibi çalışır ancak klavyeden elini kaldırmadan kullanmak için etkilidir.<br>
 <br>
 <br>
-
 <br> 
 Alt + B / Alt + F<br>
 İmleci bir kelime geri (Alt + B) veya ileri (Alt + F) götürür. Kelime bazlı hızlı gezinme sağlar.<br> 
