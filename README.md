@@ -2,7 +2,7 @@
 Linux terminali, sistem yöneticileri ve geliştiriciler için vazgeçilmez bir araçtır. Terminal üzerinde verimli çalışmanın anahtarı ise klavye kısayollarını iyi kullanmaktan geçer. Bu kılavuzda, terminal kullanımınızı hızlandıracak ve iş akışınızı kolaylaştıracak en önemli kısayol tuşlarını sade bir şekilde açıklıyoruz.
 
 
- ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Linux%20Shortcut.png) <br>
+ ![image alt](https://github.com/nurullahnamal/Linux-ShortCut/blob/main/Linux%20Shortcut.png)  <br>
 Komut satırı arayüzü (CLI — Command Line Interface), birçok sistem yöneticisi, geliştirici ve Linux kullanıcısı için vazgeçilmez bir araçtır. Zaman kazanmak, daha verimli çalışmak ve terminal üzerinde profesyonel bir kullanım deneyimi elde etmek isteyenler için klavye kısayolları büyük önem taşır. Bu yazıda, terminal üzerinde sık kullanılan kısayolların açıklamalarıyla birlikte, verimliliğinizi nasıl artırabileceğinizi ele alıyoruz.
 
 
